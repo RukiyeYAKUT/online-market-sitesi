@@ -21,6 +21,14 @@ public class musteribilgileri {
         this.mail = mail;
         this.telefonno = telefonno;
     }
+    
+     public musteribilgileri(String ad, String soyad, String adres, String mail, String telefonno) {
+        this.ad = ad;
+        this.soyad = soyad;
+        this.adres = adres;
+        this.mail = mail;
+        this.telefonno = telefonno;
+    }
 
     public int getId() {
         return id;

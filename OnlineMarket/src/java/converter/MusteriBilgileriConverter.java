@@ -9,7 +9,7 @@ import jakarta.faces.convert.Converter;
 import jakarta.faces.convert.FacesConverter;
 
 
-@FacesConverter
+@FacesConverter("musteriBilgileriConverter")
 public class MusteriBilgileriConverter implements Converter{
     
     private MusteriBilgileriDAO musteriBilgileriDAO;

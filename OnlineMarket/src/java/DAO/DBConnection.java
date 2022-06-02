@@ -13,9 +13,9 @@ public class DBConnection {
     public Connection getConnection() throws SQLException {
         if (connection == null) {
             try {
-                Class.forName("org.postgresql.Driver");  
+                Class.forName("org.postgresql.Driver"); 
                 connection = DriverManager.getConnection(
-                        "jdbc:postgresql://localhost:5432/cms", "postgres", "12345");
+                        "jdbc:postgresql://localhost:5432/onlinemarketsitesi", "postgres", "12345");
             } catch (ClassNotFoundException ex) {
                 Logger.getLogger(DBConnection.class.getName()).log(Level.SEVERE, null, ex);
             }

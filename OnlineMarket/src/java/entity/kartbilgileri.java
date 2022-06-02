@@ -4,29 +4,36 @@ package entity;
 
 public class kartbilgileri {
 
-    private int kid;
+    private musteribilgileri musteri;
     private String ad;
     private String soyad;
     private String kartnumarasi;
-    private musteribilgileri musteri;
+    private int id;
 
     public kartbilgileri() {
     }
 
-    public kartbilgileri(int kid, String ad, String soyad, String kartnumarasi, musteribilgileri musteri) {
-        this.kid = kid;
+    public kartbilgileri(musteribilgileri musteri, String ad, String soyad, String kartnumarasi, int id) {
+        this.musteri = musteri;
         this.ad = ad;
         this.soyad = soyad;
         this.kartnumarasi = kartnumarasi;
+        this.id = id;
+    }
+    
+     public kartbilgileri(musteribilgileri musteri, String ad, String soyad, String kartnumarasi) {
         this.musteri = musteri;
+        this.ad = ad;
+        this.soyad = soyad;
+        this.kartnumarasi = kartnumarasi;
+    }
+    
+    public musteribilgileri getMusteri() {
+        return musteri;
     }
 
-    public int getKid() {
-        return kid;
-    }
-
-    public void setKid(int kid) {
-        this.kid = kid;
+    public void setMusteri(musteribilgileri musteri) {
+        this.musteri = musteri;
     }
 
     public String getAd() {
@@ -53,12 +60,14 @@ public class kartbilgileri {
         this.kartnumarasi = kartnumarasi;
     }
 
-    public musteribilgileri getMusteri() {
-        return musteri;
+    public int getId() {
+        return id;
     }
 
-    public void setMusteri(musteribilgileri musteri) {
-        this.musteri = musteri;
+    public void setId(int id) {
+        this.id = id;
     }
+
+    
 
 }
