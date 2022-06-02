@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/util/DBConnect.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/Converter/GroupConverter.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/dao/UserDAO.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/entity/SystemUser.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/dao/PrivilegeDAO.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/dao/CategoryDAO.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/bean/CategoryBean.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/panel/privilege/privilege.xhtml</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/util/LoginFilter.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/dao/GroupDAO.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/entity/SystemGroup.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/bean/UserBean.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/panel/group/group.xhtml</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/bean/GroupBean.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/bean/PrivilegeBean.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/bean/SessionBean.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/WEB-INF/beans.xml</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/entity/Privileges.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/panel/index.xhtml</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/src/java/entity/Category.java</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/panel/category/category.xhtml</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/index.xhtml</file>
+            <file>file:/C:/Users/quatro/Documents/NetBeansProjects/onlinemarketsitesi/web/panel/user/user.xhtml</file>
+        </group>
+    </open-files>
+</project-private>
